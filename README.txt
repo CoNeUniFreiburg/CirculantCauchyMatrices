@@ -1,0 +1,1 @@
+This is initial Circulant Cauchy Matrices code and indeed how the algorithm works. This version works with 64 bit operating systems. 
