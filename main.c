@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <string.h>
 
+//comment new test
 #include "artin-constants.h"
 
 long *newBlock(int wordsize); 
